@@ -1,0 +1,84 @@
+{
+	"_id": {
+		"$oid": "58cfac01dec858d78d6f8a93"
+	},
+	"type": "Feature",
+	"properties": {
+		"OBJECTID": 145181,
+		"MONUID": "MYO1076",
+		"RECORDTYPE": "BLD",
+		"NAME": "OBSERVATORY",
+		"MONTYPE": "OBSERVATORY",
+		"GATEWAYURL": "http://www.heritagegateway.org.uk/Gateway/Results_Single.aspx?resourceID=1003\u0026uid=MYO1076"
+	},
+	"geometry": {
+		"type": "Point",
+		"coordinates": [
+			-1.0880056206670377,
+			53.96121475639997
+		]
+	}
+},
+{
+	"_id": {
+		"$oid": "58cfac01dec858d78d6f8a94"
+	},
+	"type": "Feature",
+	"properties": {
+		"OBJECTID": 145182,
+		"MONUID": "MYO1077",
+		"RECORDTYPE": "BLD",
+		"NAME": "RAILINGS AND GATES FORMING SOUTH WEST BOUNDARY OF MUSEUM GARDENS",
+		"MONTYPE": "BOUNDARY WALL, GATE, GATE PIER, RAILINGS",
+		"GATEWAYURL": "http://www.heritagegateway.org.uk/Gateway/Results_Single.aspx?resourceID=1003\u0026uid=MYO1077"
+	},
+	"geometry": {
+		"type": "Point",
+		"coordinates": [
+			-1.0904927187942772,
+			53.96108979830314
+		]
+	}
+},
+{
+	"_id": {
+		"$oid": "58cfac01dec858d78d6f8c1c"
+	},
+	"type": "Feature",
+	"properties": {
+		"OBJECTID": 145763,
+		"MONUID": "MYO2279",
+		"RECORDTYPE": "BLD",
+		"NAME": "Scarborough Bridge",
+		"MONTYPE": "RAILWAY BRIDGE",
+		"GATEWAYURL": "http://www.heritagegateway.org.uk/Gateway/Results_Single.aspx?resourceID=1003\u0026uid=MYO2279"
+	},
+	"geometry": {
+		"type": "Point",
+		"coordinates": [
+			-1.092832043727887,
+			53.961206792512584
+		]
+	}
+},
+{
+	"_id": {
+		"$oid": "58cfac01dec858d78d6f8fe2"
+	},
+	"type": "Feature",
+	"properties": {
+		"OBJECTID": 147516,
+		"MONUID": "MYO3759",
+		"RECORDTYPE": "MON",
+		"NAME": "Water Tower \u0026 Pumping Station (1877, to pump water up from river).",
+		"MONTYPE": "HOUSING ESTATE",
+		"GATEWAYURL": "http://www.heritagegateway.org.uk/Gateway/Results_Single.aspx?resourceID=1003\u0026uid=MYO3759"
+	},
+	"geometry": {
+		"type": "Point",
+		"coordinates": [
+			-1.0934132694540353,
+			53.96067103073278
+		]
+	}
+}
